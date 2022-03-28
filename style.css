@@ -4,9 +4,7 @@
 }
 
 .designed-man{
-    /* width: 600px; */
     height: 550px;
-    /* margin-top: 2965px; */
     background-image: url(https://cdn1.savepice.ru/uploads/2022/3/27/0807d98c0d477f643719089bdf1873b8-full.png);
     display: flex;
     margin-left: 140px;
@@ -14,19 +12,17 @@
     justify-content: center;
     flex-direction: column;
     padding-left: 710px;
-    padding-top: 50px;
     font-family: "Poppins";
     font-style: normal;
 }
 
-.designed-text > h1{
+.designed-text{
     color: #242F51;
     width: 360px;  
-    font-weight: 700;
+    font-weight: 600;
     font-size: 36px;
-    /* margin-left: 500px; */
-    /* margin-top: 145px; */
     word-wrap: break-word;
+    margin-top: 50px;
     margin-bottom: 30px;
 }
 
@@ -35,8 +31,6 @@
     width: 415px;
     font-weight: 400;
     font-size: 16px;
-    /* margin-left: 500px; */
-    /* margin-top: 300px; */
     word-wrap: break-word;
     margin-bottom: 30px;
 }
