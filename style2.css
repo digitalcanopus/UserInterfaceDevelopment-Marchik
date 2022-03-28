@@ -1,0 +1,253 @@
+* {
+  margin-top: 0;
+  padding: 0;
+}
+
+.get-awesome{
+    height: 945px;
+    width: 680px;
+    text-align: center;
+    align-items: center;
+    font-family: "Poppins";
+    font-style: normal;
+    word-wrap: break-word;
+    display: flex;
+    margin: 0 auto; 
+    flex-direction: column;
+}
+
+.ga-text{
+    width: 575px; 
+    font-weight: 600; 
+    font-size: 36px;
+    color: #242F51;
+    margin-bottom: 30px;
+}
+
+.the-rise-text{
+    color: #616368;
+    font-size: 16px;
+    font-weight: 400;
+    width: 635px;
+    margin-bottom: 80px;
+    
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-bottom: 35px;
+}
+
+.choice-btn{
+    height: 60px;
+    width: 290px;
+    background-image: url(https://cdn1.savepice.ru/uploads/2022/3/27/efb6dfbb9b98c24d9441511b3b2f11e3-full.png);
+    background-repeat: no-repeat;
+    margin 0;
+    margin-bottom: 35px;
+}
+
+.month-btn{
+    background-color: #2500f9;
+    border: none;
+    height: 50px;
+    width: 137px; 
+    border-radius: 999px;
+    margin: 0;
+}
+
+.year-btn{
+    height: 30px;
+    width: 137px;  
+    margin-top: 13px;
+}
+
+.m-btn-text{
+    font-weight: 700; 
+    font-size: 16px;
+    color: white; 
+    font-family: "Poppins";
+    font-style: normal;
+}
+
+.y-btn-text{
+    font-weight: 500; 
+    font-size: 16px;
+    color: #616368; 
+    font-family: "Poppins";
+    font-style: normal;
+}
+
+.month-btn:hover {
+    background-color: #8e7aff;
+    cursor: pointer;
+}
+
+.y-btn-text:hover{
+    color: #000000;
+    cursor: pointer;
+}
+
+
+.payment{
+    height: 610px;
+    width: auto;
+}
+
+.p-table{
+    border: 0;
+    margin-top: 0;
+}
+
+.zero-month{
+    background-image: url(https://cdn1.savepice.ru/uploads/2022/3/27/24e43babbb90b8f26add908dff019fc5-full.png);
+    box-shadow: 10px 20px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    height: 554px;
+    width: 317px;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+    font-style: normal;
+}
+
+.empty{
+    width: 42px;
+    height: auto;
+}
+
+.pro-master{
+    background-image: url(https://cdn1.savepice.ru/uploads/2022/3/28/a9a31447ea4d96470a7fd55232fc3935-full.png);
+    background-repeat: no-repeat;
+    height: 610px;
+    width: 320px;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins";
+    font-style: normal;
+}
+
+.zer-dol-mon{   
+    margin-left: 87px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row; 
+}
+
+.zero-nn-dol{    
+    font-size: 60px;
+    font-weight: 600;
+    display: flex;
+    /*font-family: "Poppins";
+    font-style: normal;*/
+    color: #242F51;
+}
+
+.per-month{
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
+    margin-top: 40px;
+    /*font-family: "Poppins";
+    font-style: normal;*/
+    color: #999CA5;
+}
+
+.nn-dol-mon{
+    margin-top: 65px;
+    margin-left: 63px;
+    display: flex;
+    flex-direction: row; 
+}
+
+.col-one{
+    display: flex;
+    flex-direction: column;
+    margin-top: -65px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bus{
+    font-size: 20px;
+    font-weight: 600; 
+    display: flex;
+    color: #242F51;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.for-text{
+    font-size: 16px;
+    font-weight: 400; 
+    display: flex;
+    color: #999CA5;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.col-text-line{
+    font-size: 16px;
+    color: #999CA5;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.start-sub-btn{
+    background-color: #2500f9;
+    border: none;
+    height: 57px;
+    width: 210px; 
+    border-radius: 999px;
+    margin-top: 42px;
+}
+
+.ss-btn-text{
+    font-weight: 600; 
+    font-size: 16px;
+    color: white; 
+    font-family: "Poppins";
+    font-style: normal;
+}
+
+.start-sub-btn:hover {
+    background-color: #8e7aff;
+    cursor: pointer;
+}
+
+.trail-btn{
+    height: 18px;;
+    width: 160px;
+    color: #2500F9;
+    font-weight: 400; 
+    font-size: 16px;
+    font-family: "Poppins";
+    font-style: normal;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.trail-btn:hover{
+    color: #8e7aff;
+    cursor: pointer;
+}
+
+
+ 
